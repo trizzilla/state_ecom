@@ -1,0 +1,14 @@
+.sign-in {
+  width: 380px;
+  font-family: "Roboto Mono", monospace;
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    margin: 10px 0;
+  }
+  .signinbtn {
+    display: flex;
+    justify-content: space-between;
+  }
+}
